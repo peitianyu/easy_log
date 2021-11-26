@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -pthread -std=c++11 -fPIC   -rdynamic CMakeFiles/main.dir/src/elog.c.o CMakeFiles/main.dir/src/elog_async.c.o CMakeFiles/main.dir/src/elog_buf.c.o CMakeFiles/main.dir/src/elog_file.c.o CMakeFiles/main.dir/src/elog_file_port.c.o CMakeFiles/main.dir/src/elog_port.c.o CMakeFiles/main.dir/src/elog_utils.c.o CMakeFiles/main.dir/src/main.cpp.o  -o main 

@@ -1,0 +1,86 @@
+I/elog     [2021-11-26 15:13:45] EasyLogger V2.2.99 is initialize success.
+A/main     [2021-11-26 15:13:45 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:13:45] Hello EasyLogger!
+W/main     [2021-11-26 15:13:45] Hello EasyLogger!
+I/main     [2021-11-26 15:13:45] Hello EasyLogger!
+D/main     [2021-11-26 15:13:45 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:13:45 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:13:50 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:13:50] Hello EasyLogger!
+W/main     [2021-11-26 15:13:50] Hello EasyLogger!
+I/main     [2021-11-26 15:13:50] Hello EasyLogger!
+D/main     [2021-11-26 15:13:50 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:13:50 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:13:55 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:13:55] Hello EasyLogger!
+W/main     [2021-11-26 15:13:55] Hello EasyLogger!
+I/main     [2021-11-26 15:13:55] Hello EasyLogger!
+D/main     [2021-11-26 15:13:55 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:13:55 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:14:00 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:14:00] Hello EasyLogger!
+W/main     [2021-11-26 15:14:00] Hello EasyLogger!
+I/main     [2021-11-26 15:14:00] Hello EasyLogger!
+D/main     [2021-11-26 15:14:00 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:14:00 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:14:05 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:14:05] Hello EasyLogger!
+W/main     [2021-11-26 15:14:05] Hello EasyLogger!
+I/main     [2021-11-26 15:14:05] Hello EasyLogger!
+D/main     [2021-11-26 15:14:05 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:14:05 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:14:10 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:14:10] Hello EasyLogger!
+W/main     [2021-11-26 15:14:10] Hello EasyLogger!
+I/main     [2021-11-26 15:14:10] Hello EasyLogger!
+D/main     [2021-11-26 15:14:10 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:14:10 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:14:15 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:14:15] Hello EasyLogger!
+W/main     [2021-11-26 15:14:15] Hello EasyLogger!
+I/main     [2021-11-26 15:14:15] Hello EasyLogger!
+D/main     [2021-11-26 15:14:15 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:14:15 pid:0039 tid:14002] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+I/elog     [2021-11-26 15:15:43] EasyLogger V2.2.99 is initialize success.
+A/main     [2021-11-26 15:15:43 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:15:43] Hello EasyLogger!
+W/main     [2021-11-26 15:15:43] Hello EasyLogger!
+I/main     [2021-11-26 15:15:43] Hello EasyLogger!
+D/main     [2021-11-26 15:15:43 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:15:43 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:15:48 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:15:48] Hello EasyLogger!
+W/main     [2021-11-26 15:15:48] Hello EasyLogger!
+I/main     [2021-11-26 15:15:48] Hello EasyLogger!
+D/main     [2021-11-26 15:15:48 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:15:48 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:15:53 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:15:53] Hello EasyLogger!
+W/main     [2021-11-26 15:15:53] Hello EasyLogger!
+I/main     [2021-11-26 15:15:53] Hello EasyLogger!
+D/main     [2021-11-26 15:15:53 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:15:53 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:15:58 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:15:58] Hello EasyLogger!
+W/main     [2021-11-26 15:15:58] Hello EasyLogger!
+I/main     [2021-11-26 15:15:58] Hello EasyLogger!
+D/main     [2021-11-26 15:15:58 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:15:58 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:16:03 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:16:03] Hello EasyLogger!
+W/main     [2021-11-26 15:16:03] Hello EasyLogger!
+I/main     [2021-11-26 15:16:03] Hello EasyLogger!
+D/main     [2021-11-26 15:16:03 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:16:03 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:16:08 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:16:08] Hello EasyLogger!
+W/main     [2021-11-26 15:16:08] Hello EasyLogger!
+I/main     [2021-11-26 15:16:08] Hello EasyLogger!
+D/main     [2021-11-26 15:16:08 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:16:08 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
+A/main     [2021-11-26 15:16:13 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp:85 test_elog)Hello EasyLogger!
+E/main     [2021-11-26 15:16:13] Hello EasyLogger!
+W/main     [2021-11-26 15:16:13] Hello EasyLogger!
+I/main     [2021-11-26 15:16:13] Hello EasyLogger!
+D/main     [2021-11-26 15:16:13 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 89)Hello EasyLogger!
+V/main     [2021-11-26 15:16:13 pid:0023 tid:14028] (/mnt/c/Users/pty/Desktop/easy_log/src/main.cpp 90)Hello EasyLogger!
